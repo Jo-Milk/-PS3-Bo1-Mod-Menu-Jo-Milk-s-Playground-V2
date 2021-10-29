@@ -1,5 +1,5 @@
-bool DEX = true;
-bool hen = false;
+bool DEX = false;//would be cool to find a way to detect if hen or dex that doesn't take too much space in memory
+bool hen = true;
 int32_t sys_dbg_write_process_memory_hen(uint64_t ea, const void* data, size_t size)
 {
     system_call_6(8, 0x7777, 0x32, (uint64_t)sys_process_getpid(), (uint64_t)ea, (uint64_t)data, (uint64_t)size);
