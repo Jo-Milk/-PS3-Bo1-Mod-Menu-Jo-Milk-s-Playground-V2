@@ -1,2 +1,11 @@
 # -PS3-Bo1-Mod-Menu-Jo-Milk-s-Playground-V2
 [PS3] Bo1 Mod Menu Jo-Milk's Playground V2... I never finished this project what a shame... works on HEN   
+
+Credits to Jo-Milk
+SC58
+Choco
+BadLuckBrian 
+iMCSx
+Kiwi
+xX-Devil_MoDz-Xx
+
